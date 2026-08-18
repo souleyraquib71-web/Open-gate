@@ -1,0 +1,70 @@
+{
+  "opportunities": [
+    {
+      "id": 1,
+      "nom": "PhD Fellowship - Mak-AI",
+      "organisation": "Makerere University Centre for AI",
+      "type": "Bourse de recherche",
+      "modalite": "présentiel",
+      "pays": "Uganda",
+      "domaines": ["Intelligence Artificielle", "NLP", "Santé", "Agriculture"],
+      "public_cible": "Étudiants en Master inscrits à Makerere University",
+      "niveau_etude": "Master",
+      "nationalite_requise": "Ougandaise",
+      "documents_requis": [
+        "Lettre de motivation",
+        "Concept de recherche (4 pages max)",
+        "CV (2 pages max)",
+        "Lettre d'admission",
+        "Relevés de notes",
+        "2 lettres de référence"
+      ],
+      "date_limite": "2026-09-30",
+      "site_web": "https://air.ug",
+      "lien_candidature": "https://air.ug/mak-ai-phd-fellowship",
+      "score_compatibilite": 0
+    },
+    {
+      "id": 2,
+      "nom": "Coursera Financial Aid - Machine Learning",
+      "organisation": "Coursera / Stanford University",
+      "type": "Cours en ligne gratuit",
+      "modalite": "en ligne",
+      "pays": "International",
+      "domaines": ["Machine Learning", "Data Science", "Informatique"],
+      "public_cible": "Tout étudiant dans le monde",
+      "niveau_etude": "Licence",
+      "nationalite_requise": "Toutes",
+      "documents_requis": [
+        "Formulaire d'aide financière"
+      ],
+      "date_limite": "2026-12-31",
+      "site_web": "https://coursera.org",
+      "lien_candidature": "https://coursera.org/financial-aid",
+      "score_compatibilite": 0
+    },
+    {
+      "id": 3,
+      "nom": "Bourse Eiffel Excellence - France",
+      "organisation": "Campus France",
+      "type": "Bourse d'études",
+      "modalite": "présentiel",
+      "pays": "France",
+      "domaines": ["Ingénierie", "Droit", "Économie", "Sciences"],
+      "public_cible": "Étudiants internationaux souhaitant étudier en France",
+      "niveau_etude": "Master",
+      "nationalite_requise": "Hors Union Européenne",
+      "documents_requis": [
+        "Dossier Campus France",
+        "Lettre de motivation",
+        "CV",
+        "Relevés de notes",
+        "Lettre d'acceptation université française"
+      ],
+      "date_limite": "2027-01-15",
+      "site_web": "https://campusfrance.org",
+      "lien_candidature": "https://campusfrance.org/bourse-eiffel",
+      "score_compatibilite": 0
+    }
+  ]
+}
